@@ -1,8 +1,10 @@
 # E-Commerce Sales Analytics Dashboard
 
-👉 ## Live Dashboard
+## Live Dashboard
 [https://aidata-analyssi-3fnbxexrmcrk7x6uubayrjg.streamlit.app](url)
 
+## Dashboard Demo
+👉 Live Demo: [https://aidata-analyssi-3fnbxexrmcrk7x6uubayrjg.streamlit.app](url)
 ## Project Overview
 This project is an interactive E-commerce Sales Analytics Dashboard built using Python and Streamlit. It analyzes online retail data to provide insights into sales performance, product trends, and customer behavior.
 
