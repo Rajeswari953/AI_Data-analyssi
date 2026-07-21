@@ -5,52 +5,55 @@ https://aidata-analyssi-3fnbxexrmcrk7x6uubayrjg.streamlit.app
 
 ## Dashboard Demo
 👉 Live Demo: https://aidata-analyssi-3fnbxexrmcrk7x6uubayrjg.streamlit.app
-## Project Overview
-This project is an interactive E-commerce Sales Analytics Dashboard built using Python and Streamlit. It analyzes online retail data to provide insights into sales performance, product trends, and customer behavior.
+Project Overview
 
-The dashboard enables users to explore key business metrics and supports data-driven decision making.
+Developed an AI-powered Business Intelligence dashboard that transforms raw e-commerce transaction data into interactive business insights. The platform enables stakeholders to monitor sales performance, evaluate customer behavior, identify revenue trends, and support data-driven decision-making through dynamic visualizations and KPI monitoring.
 
-## Problem Statement
-Businesses often struggle to understand sales performance and customer trends from raw data. Without proper analysis, it is difficult to identify top-performing products, track revenue trends, and make informed decisions.
+Business Problem
 
-## Solution
-This project provides an interactive dashboard that visualizes key sales metrics and allows users to analyze business performance through filters and dynamic charts.
+Organizations generate large volumes of sales data but often lack an efficient way to extract actionable insights. Manual analysis is time-consuming, making it difficult to monitor business performance, identify revenue opportunities, and understand customer purchasing patterns.
 
-## Tools & Technologies Used
-- Python
-- Streamlit
-- Pandas
-- Data Visualization
+Solution
 
-## Dataset
-- Online Retail Dataset (Excel)
+Designed and developed an interactive Business Intelligence platform using Python and Streamlit that automates sales analysis through real-time dashboards, KPI tracking, customer analytics, and interactive filtering capabilities.
 
-## Key Business KPIs
-- Total Revenue
-- Total Profit
-- Monthly Sales Trends
-- Top Products by Revenue
+Technology Stack
+Python
+Streamlit
+Pandas
+Plotly
+NumPy
+OpenPyXL
+Excel Dataset
+Core Business Metrics
+Total Revenue
+Total Orders
+Monthly Sales Performance
+Product Performance Analysis
+Customer Purchase Insights
+Revenue Distribution
+Sales Trend Analysis
+Key Features
+Interactive dashboard with dynamic filters
+Business KPI monitoring
+Sales trend and revenue visualization
+Product performance analysis
+Customer behavior analytics
+Responsive web interface
+Cloud deployment using Streamlit Community Cloud
+Business Insights
+Identified high-performing products contributing significantly to overall revenue.
+Analyzed monthly sales trends to support business planning.
+Highlighted customer purchasing patterns for improved decision-making.
+Enabled interactive exploration of business performance through visual dashboards.
+Business Recommendations
+Prioritize high-revenue products to maximize profitability.
+Optimize inventory based on historical sales trends.
+Monitor customer purchasing behavior to improve retention.
+Utilize KPI dashboards for strategic business planning.
+Deployment
 
-## Key Insights
-- *Paper Craft Little Birdie* is the top-performing product by revenue  
-- Sales data shows variation across different time periods  
-- A small number of products contribute significantly to total revenue  
+The application is deployed on Streamlit Community Cloud, enabling secure web-based access without requiring local installation.
 
-## Business Recommendations
-- Focus on high-performing products to maximize revenue  
-- Analyze low-performing areas to identify improvement opportunities  
-- Use sales trends for better inventory and planning decisions  
-
-## Dashboard Features
-- Interactive filters for dynamic analysis  
-- Product-level and category-level insights  
-- Sales trend visualization  
-- Easy-to-understand charts and KPIs  
-
-## How to Run the Project
-1. Clone the repository  
-2. Install required libraries:-
-3. Run the Streamlit app:
-   
-## Purpose
-The goal of this project is to demonstrate how raw e-commerce data can be transformed into meaningful business insights using data analysis and interactive dashboards.
+Live Demo:
+[https://aidata-analyssi-3fnbxexrmcrk7x6uubayrjg.streamlit.app](url)
