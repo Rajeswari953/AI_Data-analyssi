@@ -1,4 +1,4 @@
-# E-Commerce Sales Analytics Dashboard
+# AI-Powered Business Intelligence & Customer Analytics Platform
 
 ## Live Dashboard
 https://aidata-analyssi-3fnbxexrmcrk7x6uubayrjg.streamlit.app
